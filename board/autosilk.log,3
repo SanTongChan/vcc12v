@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : vcc12_5.brd                                   )
 (    Software Version : 16.5P003                                      )
-(    Date/Time        : Fri Oct 13 23:37:40 2017                      )
+(    Date/Time        : Sat Oct 14 01:25:18 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -19,18 +19,16 @@ Min Line Length is 0.00
 Allowing 0, 90, 180 and 270 degree text rotations.
 Text Allowed Under Components.
 Subclass Selections:
- Board Geometry       : None
- Component Value      : None
- Device Type          : None
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
  Package Geometry     : Silkscreen
  Reference Designator : Silkscreen
- Tolerance            : None
- User Part Number     : None
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
 
-Text string 'R3' is not at a suitable location
-(location: 241.00, -135.00)
 
-Total Failures: 1
+Total Failures: 0
 
 Log End
 
