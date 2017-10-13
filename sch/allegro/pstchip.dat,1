@@ -1,0 +1,216 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.5.0 p001Oct-10-2017 at 00:22:58}
+primitive 'CAP POL_CAP_4MM_470UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP_4MM';
+    VALUE='470uf';
+  end_body;
+end_primitive;
+primitive 'CAP NP_STD0603_470PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='std0603';
+    VALUE='470pf';
+  end_body;
+end_primitive;
+primitive 'CAP POL_CAP_4MM_100UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='CAP_4MM';
+    VALUE='100uf';
+  end_body;
+end_primitive;
+primitive '1N5467A_CAPM5126X250N_1N5189';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='1N5467A';
+    JEDEC_TYPE='CAPM5126X250N';
+    VALUE='1N5189';
+  end_body;
+end_primitive;
+primitive 'LED_STD0805_RLED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='std0805';
+    VALUE='RLED';
+  end_body;
+end_primitive;
+primitive 'CHOKE_LM7575X450_220UH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CHOKE';
+    JEDEC_TYPE='LM7575X450';
+    VALUE='220uh';
+  end_body;
+end_primitive;
+primitive 'R_STD2010_0.33';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='std2010';
+    VALUE='0.33';
+  end_body;
+end_primitive;
+primitive 'R_STD0603_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='std0603';
+    VALUE='10K';
+  end_body;
+end_primitive;
+primitive 'R_STD0805_3.6K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='std0805';
+    VALUE='3.6K';
+  end_body;
+end_primitive;
+primitive 'R_STD0805_1.2K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='std0805';
+    VALUE='1.2K';
+  end_body;
+end_primitive;
+primitive 'MC34063_SOP8_MC34063';
+  pin
+    'SWITCH COLLECTOR':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'SWITCH EMITTER':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'TIMING CAPACITOR':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'INPUT':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'SENSE':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'DRIVER COLLECTOR':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MC34063';
+    JEDEC_TYPE='sop8';
+    VALUE='MC34063';
+  end_body;
+end_primitive;
+primitive '2P_ZCZ254-1X2_2P';
+  pin
+    'COM':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'OPEN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='2P';
+    JEDEC_TYPE='ZCZ254-1X2';
+    VALUE='2P';
+  end_body;
+end_primitive;
+primitive '2P_ZCZ508_2X1_2P';
+  pin
+    'COM':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'OPEN':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='2P';
+    JEDEC_TYPE='zcz508_2X1';
+    VALUE='2P';
+  end_body;
+end_primitive;
+END.

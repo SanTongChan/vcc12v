@@ -1,0 +1,140 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.5.0 p001Oct-10-2017 at 00:23:20 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='VCC12_24';
+ POST_TIME='Apr 21 2011 10:02:30';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP POL_CAP_4MM_470UF':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS222@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins222@discrete.\cap pol.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins222@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_STD0603_470PF':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS1724@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins1724@discrete.\cap np.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins1724@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP POL_CAP_4MM_100UF':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS206@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins206@discrete.\cap pol.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins206@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 '1N5467A_CAPM5126X250N_1N5189':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS890@DISCRETE.1N5467A.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins890@discrete.\1n5467a.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins890@discrete.\1n5467a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_STD0805_RLED':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS1921@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins1921@discrete.\led.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins1921@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'CHOKE_LM7575X450_220UH':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS272@DISCRETE.CHOKE.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins272@discrete.\choke.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins272@discrete.\choke.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_STD2010_0.33':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS124@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins124@discrete.\r.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins124@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_STD0603_10K':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS2023@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins2023@discrete.\r.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins2023@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_STD0805_3.6K':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS156@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins156@discrete.\r.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins156@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_STD0805_1.2K':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS140@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins140@discrete.\r.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins140@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MC34063_SOP8_MC34063':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS87@IC.MC34063.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins87@ic.\mc34063.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins87@ic.\mc34063.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 '2P_ZCZ254-1X2_2P':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS1503@MODULE.2P.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins1503@module.\2p.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins1503@module.\2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 '2P_ZCZ508_2X1_2P':;
+
+SECTION_NUMBER 1
+ '@VCC12_24.SCHEMATIC1(SCH_1):INS771@MODULE.2P.NORMAL(CHIPS)':
+ C_PATH='@vcc12_24.schematic1(sch_1):ins771@module.\2p.normal\(chips)',
+ P_PATH='@vcc12_24.schematic1(sch_1):page1_ins771@module.\2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

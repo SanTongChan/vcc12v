@@ -1,0 +1,24 @@
+sant_1ch  Revised: Thursday, August 17, 2017
+          Revision: V1.0
+
+
+
+
+
+
+
+Bill Of Materials         August 18,2017      0:39:42	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	100uf
+2	1	C2	470uf
+3	1	C3	470pf
+4	1	D1	1N5189
+5	1	L1	220uh
+6	1	R1	0.33
+7	1	R2	1.2K
+8	1	R3	3.6K
+9	1	U1	MC34063
+10	2	U2,U3	2P
