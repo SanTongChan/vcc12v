@@ -2,9 +2,9 @@
 (                                                                     )
 (    NC DRILL Log                                                     )
 (                                                                     )
-(    Drawing          : #Taaaaaa10028.tmp                             )
+(    Drawing          : #Taaaaaa12716.tmp                             )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sat Oct 14 01:40:28 2017                      )
+(    Date/Time        : Sun Oct 29 23:27:06 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -47,12 +47,12 @@
 
            Num     Size      +/- Tolerance     Plating   Quantity
 
-            1.   7.8700    0.0000/  0.0000      PLATED          4
-            2.  13.0000    0.0000/  0.0000      PLATED          1
+            1.   7.8700    0.0000/  0.0000      PLATED          2
+            2.  13.0000    0.0000/  0.0000      PLATED          4
             3.  27.5600    0.0000/  0.0000      PLATED          4
             4.  35.4300    0.0000/  0.0000      PLATED          4
 
-     ---- Total holes:                                         13
+     ---- Total holes:                                         14
 
-     ---- Total head travel:              0.40 feet (0.12 meters)
+     ---- Total head travel:              0.46 feet (0.14 meters)
 

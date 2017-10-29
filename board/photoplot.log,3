@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : vcc12_5.brd                                   )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sat Oct 14 01:41:01 2017                      )
+(    Date/Time        : Sun Oct 29 23:29:05 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -84,6 +84,7 @@ Results from parameter file ...
   CIRCLE     0.01772                                  DARK 
   CIRCLE     0.02000                                  DARK 
   CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.04000                                  DARK 
   CIRCLE     0.05906                                  DARK 
   CIRCLE     0.06693                                  DARK 
   SQUARE     0.05906                     0.000 NO     DARK 
@@ -121,10 +122,9 @@ Results from parameter file ...
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
   CIRCLE     0.00600                                  DARK 
-  CIRCLE     0.01200                                  DARK 
   CIRCLE     0.01772                                  DARK 
-  CIRCLE     0.02000                                  DARK 
   CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.04000                                  DARK 
   CIRCLE     0.05906                                  DARK 
   CIRCLE     0.06693                                  DARK 
   SQUARE     0.05906                     0.000 NO     DARK 
@@ -302,7 +302,7 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
 
-    WARNING: text composed 0 width line found at (-452.00 -258.00)
+    WARNING: text composed 0 width line found at (-466.00 -251.00)
            ... using undefined line width of 6.00
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.

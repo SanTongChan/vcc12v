@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : vcc12_5.brd                                   )
 (    Software Version : 16.5P002                                      )
-(    Date/Time        : Sat Oct 14 01:23:44 2017                      )
+(    Date/Time        : Sat Oct 14 01:40:14 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -302,7 +302,7 @@ Results from parameter file ...
   Plot negative                       NO
   Suppress unconnected internal pads  NO
 
-    WARNING: text composed 0 width line found at (-393.00 13.00)
+    WARNING: text composed 0 width line found at (-452.00 -258.00)
            ... using undefined line width of 6.00
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
