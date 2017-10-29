@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.5.0 p001Oct-29-2017 at 22:01:52}
+{ Using PSTWRITER 16.5.0 p001Oct-10-2017 at 00:23:20}
 primitive 'CAP POL_CAP_4MM_470UF';
   pin
     '1':
@@ -15,7 +15,7 @@ primitive 'CAP POL_CAP_4MM_470UF';
     VALUE='470uf';
   end_body;
 end_primitive;
-primitive 'CAP NP_STD0805_470PF';
+primitive 'CAP NP_STD0603_470PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -26,7 +26,7 @@ primitive 'CAP NP_STD0805_470PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='std0805';
+    JEDEC_TYPE='std0603';
     VALUE='470pf';
   end_body;
 end_primitive;

@@ -135,23 +135,19 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "E:\workDir\vcc12_24\sch\vcc12_24.dsn")
-      (Path "Design Resources" "E:\workDir\vcc12_24\sch\vcc12_24.dsn"
-         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" "E:\workDir\vcc12_24\sch\vcc12_24.dsn"
-         "SCHEMATIC1" "vcc12_24"))
+      (Select "Design Resources" ".\vcc12_24.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 598"))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 598"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -30 194 1703 1 637")
-        (Scroll "-112 0")
+        (Placement "44 0 1 -1 -1 -8 -30 194 1703 1 637")
+        (Scroll "-99 23")
         (Zoom "108")
         (Occurrence "/"))
       (Path "E:\WORKDIR\VCC12_24\SCH\VCC12_24.DSN")
